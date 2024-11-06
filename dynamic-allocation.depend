@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730748008 source:d:\work_space\iti scholarship\intro to programming c\labs\day6\dynamic-allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
